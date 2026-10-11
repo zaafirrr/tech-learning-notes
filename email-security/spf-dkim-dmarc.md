@@ -57,5 +57,3 @@ An email can pass SPF or DKIM and still fail DMARC if the required alignment is 
 - [DMARC — Microsoft Learn](https://learn.microsoft.com/en-us/defender-office-365/email-authentication-dmarc-configure)
 
 ---
-
-*Part of my ongoing technical learning journey.*
